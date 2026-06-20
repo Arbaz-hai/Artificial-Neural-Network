@@ -1,7 +1,7 @@
 # 👕 Fashion MNIST Classification — Artificial Neural Network (PyTorch)
 
 This project implements a clean and efficient **Artificial Neural Network (ANN)** using **PyTorch** to classify images from the **Fashion-MNIST dataset**.  
-The model achieves **92.8% accuracy** with dropout regularization and the Adam optimizer.
+The model achieves **92.80% accuracy** with dropout regularization and the Adam optimizer.
 
 ---
 
