@@ -5,7 +5,7 @@ The model achieves **92.80% accuracy** with dropout regularization and the Adam 
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 - Python  
 - PyTorch  
 - Torchvision  
