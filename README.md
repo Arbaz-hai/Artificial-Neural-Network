@@ -14,7 +14,7 @@ The model achieves **92.80% accuracy** with dropout regularization and the Adam 
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 model = nn.Sequential(
 nn.Flatten(),
 nn.Linear(784, 256), nn.ReLU(),
@@ -27,7 +27,7 @@ nn.LogSoftmax(dim=1)
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 - End-to-end ANN model training  
 - Achieved **92.8% test accuracy**  
 - Clean training loop with Adam optimizer  
@@ -37,9 +37,9 @@ nn.LogSoftmax(dim=1)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
-📁 Artificial-Neural-Network
+ Artificial-Neural-Network
  ann_fashion_mnist_pytorch.ipynb 
  # Main notebook
  README.md 
@@ -49,7 +49,7 @@ nn.LogSoftmax(dim=1)
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 git clone https://github.com/Arbaz-hai/Artificial-Neural-Network
 
 cd Artificial-Neural-Network
@@ -63,7 +63,7 @@ ann_fashion_mnist_pytorch.ipynb
 
 ---
 
-## 📦 Dataset
+##  Dataset
 Fashion-MNIST: 60,000 training + 10,000 testing images  
 Classes include: T-shirt, trouser, pullover, dress, coat, sandal, shirt, sneaker, bag, ankle boot.
 
@@ -73,18 +73,18 @@ torchvision.datasets.FashionMNIST()
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Migrate ANN → **CNN** for higher accuracy  
 - Add early stopping & learning rate scheduler  
 - Deploy using FastAPI or Flask  
 
 ---
 
-## 👤 Author
+##  Author
 **Arbaz**  
 GitHub: https://github.com/Arbaz-hai  
 LinkedIn: https://www.linkedin.com/in/arbaz-sheikh-712408339  
 
 ---
 
-⭐ If this project helped you, please consider giving it a **star**!
+ If this project helped you, please consider giving it a **star**!
