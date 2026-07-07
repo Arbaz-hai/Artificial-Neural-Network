@@ -29,7 +29,7 @@ nn.LogSoftmax(dim=1)
 
 ##  Key Features
 - End-to-end ANN model training  
-- Achieved **92.8% test accuracy**  
+- Achieved **92.80% test accuracy**  
 - Clean training loop with Adam optimizer  
 - Loss & accuracy visualization  
 - Misclassified image analysis  
